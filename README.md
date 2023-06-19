@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Info 
+
+This project help to configure with graphql by help of apollo server apollo server 
+
 ## Available Scripts
 
 In the project directory, you can run:
